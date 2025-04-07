@@ -25,7 +25,7 @@ This is a simple drag-and-drop tier list application where users can create cust
 
 ## Repository
 
-You can find the repository at: [GitHub Repository URL](https://github.com/your-repo-link)
+You can find the repository at: [GitHub Repository URL](https://github.com/srishithsaireddycheruku/Tier-List-App.git)
 
 ## Screenshot
 
