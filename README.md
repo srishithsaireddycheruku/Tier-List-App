@@ -31,6 +31,8 @@ You can find the repository at: [GitHub Repository URL](https://github.com/srish
 
 ![Screenshot of the app](1.png)
 ![Screenshot of the app](2.png)
+![Screenshot of the app](3.png)
+![Screenshot of the app](4.png)
 
 ## Technologies Used
 
