@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="color:rgb(255, 179, 0)">
+        Your Tier List App...
+    </h1>
+    <form>
+        <label for="tier" style="color:rgb(255, 179, 0);font-weight: bold;">Tier</label>
+        <input type="text" id="tier" name="list" placeholder="give tier name">
+        <input type="submit" id="submit" value="Click me">
+        <br>
+    </form><hr style="border: 1px solid rgb(255, 179, 0);">
+    
+    <form id="image-form">
+        <label for="image-item" style="color:rgb(255, 179, 0);font-weight: bold;">Item</label>
+        <input type="text" id="image-item" name="list" placeholder="give image link">
+        <input type="submit" id="submitImg" value="Click me">
+        <br><hr style="border: 1px solid rgb(255, 179, 0);">
+    </form>
+
+    <section id="tier-list-section">
+        <!-- <div class="tier-list">
+            <h1>Sample tier list</h1>
+            <div class="tier-list-items">
+
+            </div>
+        </div> -->
+    </section>
+    
+    <section id="non-tier-section">
+        <div class="item-container" draggable="true">
+            <!-- <img src="https://wallpapercave.com/wp/wp6633813.jpg" alt=""> -->
+        </div>
+    </section>
+    <!-- <script>
+        console.log("hello");
+    </script> -->
+
+    <script src="script.js"></script>
+</body>
+</html>
